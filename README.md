@@ -1,1 +1,0 @@
-# Get-full-version-of-StarUML-6.2.2-Remove-Watermark
